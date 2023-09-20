@@ -1,0 +1,26 @@
+*{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-decoration: overline;
+}
+h2{
+    color: black;
+}
+h3{
+    color: darkcyan;
+}
+main{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+}
+p{
+    margin-left: 100px;
+}

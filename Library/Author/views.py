@@ -4,5 +4,5 @@ from django.shortcuts import render
 
 
 def showauthor(request):
-    return render(request, "aurthor.html")
+    return render(request, "author.html")
 
